@@ -1,4 +1,4 @@
-"business": {
+{"business": {
     "name": "An tran",
     "email": "trannhatan2803@gmail.com",
     "yearIncorporation": 10,
@@ -8,3 +8,4 @@
     "imageUrls": 
       "https://i.picsum.photos/id/715/200/300.jpg?hmac=jMgGkNrRGTz5pgw27YMTCyozftm33Rw2fPKQU2FypW4"
   }
+}
